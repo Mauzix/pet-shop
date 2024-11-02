@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.banner{
+    background-image: url(./IMG/img/banner-topo.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 50px;
+    height: 650px;
+}
+.slogan-petshop{
+    width: 30px;
+    
+    
+    
+}
+.nome-petshop{
+    color: blueviolet;
+    
+    display: inline;
+}
+.paragrafo-topo{
+    margin-left: 10px;
+}
+
+.slogan{
+    margin-left: 60px;
+}
+
+/* logo da petshop */
+
+
+
+/* inicio da estilizaçao do banner */
+.banner-topo{
+    text-align: center;
+    border: 1px solid rgb(192, 182, 182);
+    margin: 80px 200px;
+    box-shadow:10px 1px 30px rgb(136, 128, 128)  ; 
+    background-color: #ffffffc4;
+    background-attachment: fixed;
+    margin-bottom: 190px;
+    margin-top: 280px;
+    
+    
+
+    }   
+.titulo-topo {
+    color: blueviolet;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-size: 50px;
+    
+   
+    
+}
+.fale-conosco img{
+    width: 19px;
+}
+.fale-conosco{
+    display: inline;
+    background-color: blueviolet;
+    margin: 50px;
+    padding: 10px;
+
+    
+}
+
+.fale-conosco a{
+    
+    color: white;
+    
+}
+
+/* fim da estilização do banner */
+
+
+/* inicio da estilização da sessao serviços */
+.servicos{
+    padding-top: 50px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.servicos h2,strong{
+    color: rgb(56, 13, 97);
+}
+.descricao{
+    text-align: justify;
+    margin: 50px 390px;
+}
+
+.imagens img{
+    width: 150px;
+    box-shadow: -1px  1px 20px 5px rgb(155, 141, 141);
+    margin-bottom: 60px;
+    
+}
+.imagens{
+    width: 50px;
+    display: inline;
+    overflow-x: scroll;
+    
+}
+/* fim da parte dos servicos */
+
+/* inicio da secao redes sociais  */ 
+.redessociais{
+    text-align: center;
+    margin: 0 auto;
+    background-color: blueviolet;
+    color: white;
+    padding: 60px;
+}
+.imagensredessociais img{
+    height: 40px;
+    margin: 10px ;
+}
+.textoredessociais strong{
+    color: white;
+    
+}
+
+/* fim da secao redessociais */
+
+
+
+/* inicio da secao mde marcas */
+.marcas{
+    color: rgb(43, 12, 71);
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 60px;
+    font-size: 30px;
+    
+}
+.marcas img {
+    display: inline;
+    margin-right:50px ;
+
+}
+
+/* fim da secao de marcas */
+
+
+
+/* inicio da secao localizacao */
+.localizacao{
+    text-align: center;
+    margin: 0 auto;
+    color: rgb(58, 16, 97);
+    padding: 40px;
+}
+.textolocalizacao{
+    margin: 20px 0 40px;
+}
+.paragrafolocalizacao{
+    margin-bottom: 20px;
+}
+/* fim da secao localizacao */
+
+
+/* inicio do rodape */
+ .rodape{
+    text-align: center;
+    background-color: rgb(47, 8, 83);
+    color: white;
+    padding: 20px;
+ }
+/* fim do rodape */
