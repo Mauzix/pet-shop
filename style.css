@@ -4,13 +4,21 @@
     box-sizing: border-box;
     font-family: sans-serif;
     text-decoration: none;
+    
+
 }
+/* {
+    widtbodyh: 1000vw;
+    max-width: 1000px; */
+
 .banner{
     background-image: url(./IMG/img/banner-topo.jpg);
     background-position: center;
     background-size: cover;
     padding-bottom: 50px;
     height: 650px;
+ 
+    
 }
 .slogan-petshop{
     width: 30px;
